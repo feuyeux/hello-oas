@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/jest": "^27.0.1",
+    "isomorphic-fetch": "^3.0.0",
+    "mocha": "^9.1.1"
+  },
+  "test": "jest"
+}
